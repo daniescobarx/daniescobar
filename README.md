@@ -4,10 +4,11 @@
 
 <div align="center">
  💻 Daniela Escobar, 19 anos, desenvolvedora back-end <br>
- ✍️ Sou estudante de Análise e Desenvolvimento de Sistemas na SPTECH 
+ ✍️ Estudante de Análise e Desenvolvimento de Sistemas na SPTECH 
+ 📚 Aspirante de Ciência da Computação - UAM
  </div>
 
- <h2 align="center">⚒️ Languages⚒️</h2>
+ <h2 align="center">⚒️ Stack ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,html,css,git,vscode,eclipse" />
