@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
- 💻 Daniela Escobar, 19 anos, desenvolvedora back-end <br>
+ 💻 Daniela Escobar, 19 anos <br>
  ✍️ Estudante de Análise e Desenvolvimento de Sistemas na SPTECH <br>
  📚 Aspirante de Ciência da Computação - UAM
  </div>
