@@ -1,17 +1,24 @@
-<h1 align="center"</h1>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+I'm+Daniela+Escobar!;" />
-</h1>
-
-<div align="center">
- 💻 Daniela Escobar, 19 anos <br>
- ✍️ Estudante de Análise e Desenvolvimento de Sistemas na SPTECH <br>
- 📚 Aspirante de Ciência da Computação - UAM
- </div>
-
- <h2 align="center">⚒️ Stack ⚒️</h2>
+<h1 align="center">
+Hi, I'm Daniela Escobar!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,git,vscode,eclipse" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,java,mysql" /><br>
-</div>
- 
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Analysis+and+System+Development;Full+Stack+Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+</p>
+
+<img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
+<hr>
+
+```javascript
+const daniescobarx = {
+    name: "Daniela Escobar",
+    location: "Brazil 🇧🇷",
+    role: "full stack intern at Stefanini👩‍💻",
+    education: "Analysis and systems development @ SPTECH 🎓",
+    programmingLanguages: ["HTML/CSS", "JavaScript", "Java"],
+    learning: ["Angular", "C#"],
+    fluentLanguages: ["Spanish", "Portuguese"],
+};
+```
+
