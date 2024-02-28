@@ -4,10 +4,11 @@ Hi, I'm Daniela Escobar!
 <br/>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Analysis+and+System+Development;Full+Stack+Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&duration=4000&pause=100&color=8900F7&background=FF000000&center=true&random=false&width=435&lines=Analysis+and+Systems+Development;Full+Stack+Developer;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
 
 <img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
+
 <hr>
 
 ```javascript
