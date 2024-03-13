@@ -7,7 +7,7 @@ Hi, I'm Daniela Escobar!
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&duration=4000&pause=100&color=8900F7&background=FF000000&center=true&random=false&width=435&lines=Analysis+and+Systems+Development;Full+Stack+Developer;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
 
-<img align="left" src="https://github.com/daniescobarx/daniescobarx/blob/main/gifreadme.gif" alt="eh isso" width="198" />
+<img align="left" src="https://github.com/daniescobarx/daniescobarx/blob/main/gifreadme.gif" alt="eh isso" width="200" />
 
 ```javascript
 const daniescobarx = {
@@ -17,6 +17,7 @@ const daniescobarx = {
     education: "Analysis and systems development @ SPTECH 🎓",
     programmingLanguages: ["HTML/CSS", "JavaScript", "Java"],
     learning: ["Angular", "C#"],
+    hobby: "Watching sitcoms 📺", 
     fluentLanguages: ["Spanish", "Portuguese"]
 };
 ```
