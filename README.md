@@ -12,12 +12,12 @@ Hi, I'm Daniela Escobar!
 ```javascript
 const daniescobarx = {
     name: "Daniela Escobar",
+    age: "19",
     location: "Brazil 🇧🇷",
-    role: "full stack intern at Stefanini",
+    role: "back-end intern at Stefanini",
     education: "Analysis and systems development @ SPTECH 🎓",
     programmingLanguages: ["HTML/CSS", "JavaScript", "Java"],
     learning: ["Angular", "C#"],
-    hobby: "Watching sitcoms 📺", 
     fluentLanguages: ["Spanish", "Portuguese"]
 };
 ```
