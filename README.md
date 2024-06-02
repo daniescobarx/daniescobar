@@ -12,7 +12,7 @@ Hi, I'm Daniela Escobar!
 ```javascript
 const daniescobarx = {
     name: "Daniela Escobar",
-    age: "19",
+    age: "20",
     location: "Brazil 🇧🇷",
     role: "back-end intern at Stefanini",
     education: "Analysis and systems development @ SPTECH 🎓",
