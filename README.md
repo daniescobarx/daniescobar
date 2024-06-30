@@ -20,5 +20,8 @@ const daniescobarx = {
     learning: ["Angular", "C#"],
     fluentLanguages: ["Spanish", "Portuguese"]
 };
+
 ```
+  <a href="#" style="text-decoration: none;" title="Eu amo o Dracarys">♥</a>
+
 
